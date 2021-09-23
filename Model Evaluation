@@ -1,0 +1,11 @@
+ 1. Linear Regression (Cross-Validation)
+    Mean:  5.030437102767304
+    Standard deviation:  1.0607661158294832
+
+ 2. Decision Tree Regressor (Cross-Validation)
+    Mean:  4.358079693218624
+    Standard deviation:  1.1472014930273802
+    
+ 3. Random Forest Regressor
+    Mean:  3.30469720394334
+    Standard deviation:  0.6650176023749894
