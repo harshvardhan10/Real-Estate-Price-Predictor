@@ -1,7 +1,4 @@
 The following project is a model for predicting prices of Real Estate.
-It is based on the Boston Housing Data dataset more information about which can be found here:
-https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+The dataset is a modified version of the California Housing dataset available from Luís Torgo's page (University of Porto). Luís Torgo obtained it from the StatLib repository (which is closed now). The dataset may also be downloaded from StatLib mirrors.
 
-This is a simple regression project on a small dataset
-The file trainedmodel.joblib is a model ready to be used which is trained on the dataset as mentioned above. 
-Simply import this file and pass on the features as arguments in order to get the predicted price 
+This dataset appeared in a 1997 paper titled Sparse Spatial Autoregressions by Pace, R. Kelley and Ronald Barry, published in the Statistics and Probability Letters journal. They built it using the 1990 California census data. It contains one row per census block group. A block group is the smallest geographical unit for which the U.S. Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). 
